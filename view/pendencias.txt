@@ -1,0 +1,11 @@
+
+PENDÊNCIAS
+
+- Falta atributo convenio na classe Convenio;
+- Ajustar design da tela de cadastro de informações clinicas;
+- Atributo pacienteconvenio deve ser chamado temConvenio
+- Função getConvenio deve ser chamada de getTemConvenio
+- Função setConvenio deve ser chamada de setTemConvenio
+- Refazer function setTemConvenio
+- Melhorar design da tela de login
+- 
